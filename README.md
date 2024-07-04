@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a [Blockchain Project](https://github.com/parikshith078/supply_chain)**
+ 🔭 I’m currently working on **a [kitty](https://github.com/parikshith078/kitty-expense-management)**
  
  🌱 I’m currently learning **SwiftUI, PocketBase, SmartContracts**
 

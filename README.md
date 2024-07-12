@@ -14,9 +14,9 @@
  
  🔭 I’m currently working on **a [kitty](https://github.com/parikshith078/kitty-expense-management)**
  
- 🌱 I’m currently learning **SwiftUI, PocketBase, SmartContracts**
+ 🌱 I’m currently learning **SvelteKit, Go, Compilers**
 
- 💬 Ask me about **Node.js, React, SwiftUI... or anything [here](https://github.com/parikshith078/parikshith078/issues)**
+ 💬 Ask me about **Node.js, React, Svelte... or anything [here](https://github.com/parikshith078/parikshith078/issues)**
 
  👀 Seeking **summer internship** opportunities in the field of web development.
  </div>

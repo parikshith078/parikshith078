@@ -12,13 +12,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a [kitty](https://github.com/parikshith078/kitty-expense-management)**
+ 🔭 I’m currently working on **a [PM4Devs](https://github.com/StrawHats-2024/pm4devs-backend)**
  
- 🌱 I’m currently learning **SvelteKit, Go, Compilers**
+ 🌱 I’m currently learning **Go & Graph theory**
 
  💬 Ask me about **Node.js, React, Svelte... or anything [here](https://github.com/parikshith078/parikshith078/issues)**
 
- 👀 Seeking **summer internship** opportunities in the field of web development.
+ 👀 Seeking **internship** opportunities in the field of backend development.
  </div>
  
 <div align="center"> 
@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,svelte,swift,neovim,nextjs,tailwind,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,flask,typescript,javascript,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=react,svelte,swift,go,neovim,nextjs,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,javascript,html,css" /><br>
 </div>
 
 <br/>

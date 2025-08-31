@@ -18,7 +18,6 @@
 
  💬 Ask me about **Node.js, React, Svelte... or anything [here](https://github.com/parikshith078/parikshith078/issues)**
 
- 👀 Seeking **internship** opportunities in the field of backend development.
  </div>
  
 <div align="center"> 

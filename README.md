@@ -6,13 +6,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parikshith!;" />
 </h1>
 
-<h3 align="center">Computer Science B.Tech student at IIIT Dharwad, experienced in web and iOS development. Proficient in data structures, algorithms, and command line tools.</h3>
+<h3 align="center">AI Engineer at Vegam Solutions | CSE Graduate from IIIT Dharwad | Skilled in Data Structures, Algorithms, and Command-Line Tools</h3>
 
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning **Design Pattrens & FastAPI*
+ 🌱 I’m currently learning **Design Pattrens & FastAPI**
 
  💬 Ask me about **Node.js, React, Svelte... or anything [here](https://github.com/parikshith078/parikshith078/issues)**
 

@@ -12,9 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a [PM4Devs](https://github.com/StrawHats-2024/pm4devs-backend)**
- 
- 🌱 I’m currently learning **Go & Graph theory**
+ 🌱 I’m currently learning **Design Pattrens & FastAPI*
 
  💬 Ask me about **Node.js, React, Svelte... or anything [here](https://github.com/parikshith078/parikshith078/issues)**
 
